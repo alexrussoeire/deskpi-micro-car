@@ -2,13 +2,11 @@
     "name": "Deskpi Micro Car",
     "description": "Deskpi Micro Car API for MakeCode",
     "dependencies": {
-        "deskpi-micro-car": "github:alexrussoeire/deskpi-micro-car",
         "motor": "https://github.com/alexrussoeire/deskpi-micro-car/motor-module",
         "ultrasonic": "https://github.com/alexrussoeire/deskpi-micro-car/ultrasonic-module",
         "core": "*",
         "radio": "*",
-        "microphone": "*",
-        "OLED12864_I2C": "github:makecode-extensions/oled12864_i2c#v1.5.0"
+        "microphone": "*"
     },
     "files": [
         "main.ts",
