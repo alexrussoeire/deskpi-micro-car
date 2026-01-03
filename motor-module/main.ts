@@ -1,8 +1,8 @@
 /**
  * Custom blocks for the Deskpi Motor Extension
  */
-//% weight=100 color=#0fbc11 icon="\uf11b" block="motor"
-namespace motor {
+//% weight=100 color=#0fbc11 icon="\uf11b" block="deskpi_motor"
+namespace deskpi_motor {
 
     /**
      * Drives the car forward at a specific speed.

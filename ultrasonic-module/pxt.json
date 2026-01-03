@@ -1,6 +1,6 @@
 {
-    "name": "deskpi_ultrasonic_module",
-    "description": "Deskpi Ultrasonic Module for MakeCode",
+    "name": "deskpi_sonar",
+    "description": "Deskpi Sonar Module for MakeCode",
     "files": [ "main.ts" ],
     "dependencies": {
         "core": "*"
