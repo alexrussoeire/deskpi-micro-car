@@ -3,5 +3,6 @@
     "description": "Deskpi Motor Module for MakeCode",
     "files": [ "main.ts" ],
     "dependencies": {
+        "core": "*"
     }
 }

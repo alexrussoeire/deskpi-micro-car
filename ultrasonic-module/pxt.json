@@ -2,5 +2,7 @@
     "name": "deskpi_ultrasonic_module",
     "description": "Deskpi Ultrasonic Module for MakeCode",
     "files": [ "main.ts" ],
-    "dependencies": {}
+    "dependencies": {
+        "core": "*"
+    }
 }
