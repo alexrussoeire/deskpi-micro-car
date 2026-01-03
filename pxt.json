@@ -1,7 +1,9 @@
 {
-    "name": "Micro Car API",
+    "name": "Deskpi Micro Car",
     "description": "Deskpi Micro Car API for MakeCode",
     "dependencies": {
+        "motor": "https://github.com/alexrussoeire/deskpi-micro-car/motor-module",
+        "ultrasonic": "https://github.com/alexrussoeire/deskpi-micro-car/ultrasonic-module",
         "core": "*",
         "radio": "*",
         "microphone": "*",

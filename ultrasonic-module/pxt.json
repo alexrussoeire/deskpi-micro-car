@@ -1,0 +1,8 @@
+{
+    "name": "deskpi_ultrasonic_module",
+    "description": "Deskpi Ultrasonic Module for MakeCode",
+    "files": [ "main.ts" ],
+    "dependencies": {
+        "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.6"
+    }
+}

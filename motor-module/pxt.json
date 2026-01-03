@@ -1,0 +1,7 @@
+{
+    "name": "deskpi_motor_module",
+    "description": "Deskpi Motor Module for MakeCode",
+    "files": [ "main.ts" ],
+    "dependencies": {
+    }
+}
