@@ -1,18 +1,16 @@
 {
     "name": "Micro Car API",
-    "description": "",
+    "description": "Deskpi Micro Car API for MakeCode",
     "dependencies": {
         "core": "*",
         "radio": "*",
         "microphone": "*",
         "OLED12864_I2C": "github:makecode-extensions/oled12864_i2c#v1.5.0",
-        "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.6",
-        "pxt-kitronik-move-motor": "github:kitronikltd/pxt-kitronik-move-motor#v0.4.20"
+        "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.6"
     },
     "files": [
         "main.ts",
-        "README.md",
-        "main.py"
+        "README.md"
     ],
     "testFiles": [
         "test.ts"
